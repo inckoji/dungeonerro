@@ -1,0 +1,16 @@
+0719 18:57:04366 :: 
+networkModule.py(line:200) SetSelectCharacterPhase
+system.py(line:177) __hybrid_import
+system.py(line:142) _process_result
+introSelect.py(line:28) <module>
+system.py(line:177) __hybrid_import
+system.py(line:142) _process_result
+interfaceModule.py(line:33) <module>
+system.py(line:177) __hybrid_import
+
+networkModule.SetSelectCharacterPhase - <type 'exceptions.IndentationError'>:unexpected indent (uiMiniMap.py, line 277)
+
+0719 18:57:04366 :: ============================================================================================================
+0719 18:57:04366 :: Abort!!!!
+
+
